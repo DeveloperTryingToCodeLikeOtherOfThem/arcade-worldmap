@@ -8,7 +8,7 @@ namespace worldMap {
          this.tileMap = new tiles.TileMap()
          this.blockedTypeofTile = tilesetObstacles
      }
-
+ 
     /**
      * sets the world map and progresses  and clears tiles until you progress up to the next level
      */
